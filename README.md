@@ -837,7 +837,7 @@ Click [README.md](https://github.com/wsargent/docker-cheat-sheet/blob/master/REA
 
 ![Edit This](images/edit.png)
 
-### Make Changes and Commit
+### Make Changes and Commit it
 
 ![Change This](images/change.png)
 
